@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaruwat Amnuaysat
 
-- 👋 Hi, I’m @darkneed02
+- 👋 Hi, I’m Jaruwat Amnuaysat
 - 👀 I’m interested in Technology and Programmer
 - 🌱 I’m currently learning 🤣
 - ⚡ Fun fact: I love to play game
