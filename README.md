@@ -6,7 +6,7 @@ Full Stack developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [overlag02@gmail.com](mailto:overlag02@gmail.com)
-* 🤝  I'm open to collaborating on Data Engineer
+<!--* 🤝  I'm open to collaborating on Data Engineer -->
 
 ### Skills
 
