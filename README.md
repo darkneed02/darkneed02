@@ -1,29 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaruwat Amnuaysat
-=========================================================================================================================================
+<h1>Hi, I'm Jaruwat <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="wave" /></h1>
 
-Full Stack developer
---------------------------------------
+**Full Stack Developer (PHP / Laravel) · 6 years building back-office systems that companies run on every day**
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [overlag02@gmail.com](mailto:overlag02@gmail.com)
-<!--* 🤝  I'm open to collaborating on Data Engineer -->
+จารุวัฒน์ อำนวยสัตย์ (ฟิล์ม) · Pathum Thani, Thailand 🇹🇭 · Open to Bangkok / Remote
 
-### Skills
+I build the systems behind the storefront: disbursement and membership platforms, SAP data integration,
+bank-standard encrypted file transfer over sFTP, and multi-shop order management for WooCommerce.
 
-
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p>
+  <a href="https://darkneed02.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-darkneed02.github.io-0f766e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jaruwat-amnuaysat-509244207/"><img src="https://img.shields.io/badge/LinkedIn-Jaruwat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:overlag02@gmail.com"><img src="https://img.shields.io/badge/Email-overlag02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+## What I'm working on
 
-### Socials
+- 🛒 **HerbCore CRM** (in-house, private): PHP 8.2 + PostgreSQL on Docker. Pulls orders from several WooCommerce shops into one packing queue and books shipping through the DHL Express API.
+- 🌐 Rebuilt **stherb.com** and **emperorherb.com** with custom WordPress themes written from scratch, plus SEO, backups and server care.
+- 🐹 Learning **Go** and data engineering (PySpark, ETL pipelines).
 
-<p align="left"> <a href="https://www.facebook.com/jaruwat.amnuaysat/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/darkneed02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jaruwatamnuaysat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Featured projects
 
-### Badges
+| Project | What it does | Stack |
+|---|---|---|
+| [**herb-partner-hub**](https://github.com/darkneed02/herb-partner-hub) | WordPress/WooCommerce plugin for a dropshipper program: applications, admin approval, wholesale pricing, and shipping straight to the reseller's customer. Supports HPOS. | PHP 8.1+, WooCommerce |
+| [**webp-forge**](https://github.com/darkneed02/webp-forge) | Local batch tool that resizes JPG/PNG or converts them to WebP. Bounded queue, per-image progress, ZIP download. One container, no database. | Next.js, TypeScript, Sharp, Docker |
+| [**darkneed02.github.io**](https://github.com/darkneed02/darkneed02.github.io) | My bilingual (TH/EN) CV site, built to static HTML with JSON Resume, `llms.txt` and hreflang sitemap so recruiters and AI tools can read it. | HTML, JavaScript, Node build |
+| [**notify-system**](https://github.com/darkneed02/notify-system) | Sends notifications to LINE and Telegram and keeps a delivery log. Creates its own database schema on start. | Go |
 
-<b>My GitHub Stats</b>
+## Experience highlights
 
-<a href="http://www.github.com/darkneed02"><img src="https://github-readme-stats.vercel.app/api?username=darkneed02&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="darkneed02's GitHub stats" /></a>
+- **Cloudmate** (2024): shipped 6 internal systems in 11 months, including SAP data integration, advance/disbursement payments, procurement, and bank file encryption over sFTP.
+- **Nature Biotec** (2020–2023): built the *Healthy Together* loyalty platform end to end, with registration, rewards, per-product QR codes and lucky draws, plus Pandas data cleansing and Looker Studio dashboards.
 
-<a href="https://github.com/darkneed02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkneed02&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Full history on my [portfolio](https://darkneed02.github.io/en/).
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,nextjs,python,go,html,css,bootstrap,tailwind&perline=12" alt="Languages and frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,postman,figma&perline=12" alt="Databases and tools" />
+</p>
+
+Also: Microsoft SQL Server, WooCommerce REST API, SAP integration, sFTP, cron/batch automation, Pandas, Looker Studio.
